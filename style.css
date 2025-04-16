@@ -1,26 +1,13 @@
-.cabecalho(
-        .rodape[
-.rodape[
- background-color        
-     color azure
-     display flex
-     padding 24px 0 
-)
-
-.section 1 {
-/* background-color brouw
-padding:100px;
-
-        .section 2 {
-        /* background- color blue */
+.cabecalho{
+        background-color: aqua;
+        color: black;
+        display: flex;
+        padding: 24px 0;
 }
 
-.section 1[ background-color:brown;
-] section 2 [ background-color:blue;
- padding: 100px;
-]
+.section1{
+     background-color: blue;{
 
-.rodape[
- background-color black
- color=white
-]
+        
+     }   
+}
